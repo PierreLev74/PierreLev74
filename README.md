@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @PierreLev74
-- 👀 I’m interested in cypersecurity, crypto, blochckain, iot, web3, nft
-- 🌱 I’m currently learning web3
-- 💞️ I’m looking to collaborate on any project related to web3 or nfts
+- 👀 I’m interested in cypersecurity, Azure, AWS, blochckain, iot, web3, nft
 - 📫 How to reach me: DM me on https://twitter.com/pierrelev74
 
 <!---
